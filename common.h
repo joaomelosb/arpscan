@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 #define VERSION "ARPScan v1.0"
-#define AUTHOR "Author: John Mello (https://github.com/jjvictor)"
+#define AUTHOR "Author: João Vitor Melo (see https://github.com/joaomelosb)"
 #define VENDORS_FILE "vendors.txt"
 
 extern char *prog;
