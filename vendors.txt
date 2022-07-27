@@ -1,4 +1,4 @@
-# Take from here nmap project
+# Taken from nmap project
 # https://github.com/nmap/nmap/blob/master/nmap-mac-prefixes
 002272 American Micro-Fuel Device
 00D0EF IGT
