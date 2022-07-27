@@ -75,7 +75,7 @@ void scan(struct in_addr iaddr, unsigned char cidr) {
 
 	}
 
-	printf("\rTotal scanned hosts: %zu\nHosts found: %zu\n", c,
+	printf("\rTotal scanned hosts: %zu\nHosts up: %zu\n", c,
 		up);
 
 }
